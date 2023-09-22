@@ -1,7 +1,7 @@
 # Comp-2210
 Kelci Jenkins | Fall '22
 
-Projects completed from Comp 2210 or Fundamentals of Computing II
+Projects completed during Comp 2210 or Fundamentals of Computing II
 
 # Assignment 1
 Array Selector
